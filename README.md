@@ -1,10 +1,9 @@
 = sobre mim
 
-- 👋 Hi, I’m @maria24042007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola meu nome é @maria24042007
+- 👀 estou enterssada em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentimente a linguagem JavaScript e scratch
+- 
 
 <!---
 maria24042007/maria24042007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
