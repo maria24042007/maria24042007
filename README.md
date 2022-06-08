@@ -1,7 +1,7 @@
 = sobre mim
 
 - 👋 ola meu nome é @maria24042007
-- 👀 estou enterssada em aprender a programar novas linguagens
+- 👀 estou enteressada em aprender a programar novas linguagens
 - 🌱 eu estou aprendendo a programar recentimente a linguagem JavaScript e scratch
 - 
 
